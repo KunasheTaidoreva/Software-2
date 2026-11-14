@@ -25,3 +25,14 @@ COMPLETED ASSIGNMENTS:
 -Task 9:3p 
 
 **Total 11p**
+
+##JS module 4
+
+My link to js mod 3 folder at users.metropolia.fi: https://users.metropolia.fi/~kunashet/Exercises/module4-starters-main/
+Completed folder tasks
+-t1:2p
+-t2:2p
+-t5:5p
+-t7:2p
+
+**total 11p**
