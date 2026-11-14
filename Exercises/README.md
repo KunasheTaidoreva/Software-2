@@ -2,7 +2,7 @@
 
 ##JS modules 1and 2 
 
-My link to js mod 3 folder at users.metropolia.fi: https://users.metropolia.fi/~kunashet/Exercises/Modules1and2_JS/
+My link to js mod 1&2 folder at users.metropolia.fi: https://users.metropolia.fi/~kunashet/Exercises/Modules1and2_JS/
 
 COMPLETED ASSIGNMENTS:
 -Task 1:1p
