@@ -1,0 +1,34 @@
+body{
+    background-color:whitesmoke;
+}
+
+.navbar{
+    background-color:black;
+    color:white;
+    display:flex;
+    justify-content:space-around;
+    padding:15px;
+    border:none;
+    border-radius:4px;
+}
+
+h1{
+    text-align:center;
+}
+main{
+    text-align:center;
+}
+
+.explore{
+    background-color:blue;
+    color:white;
+    transition:all 0.5s;
+    padding:10px;
+    border: none;
+    border-radius:5px;
+}
+
+.explore:hover{
+    background-color:orange;
+
+}

@@ -1,0 +1,41 @@
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 15px 30px;
+    background-color: #222;
+    border-radius:5px;
+}
+
+.navbar button{
+    background-color:orange;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.navbar button:hover{
+    background-color:darkorange;
+}
+
+.logo{
+    color:white;
+    font-size:22px;
+    font-weight:bold;
+}
+
+.links{
+    display:flex;
+    gap:25px;
+}
+
+.links a{
+    color:white;
+    text-decoration:none;
+}
+
+.links a:hover{
+    color:orange;
+}

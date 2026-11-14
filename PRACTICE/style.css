@@ -1,0 +1,31 @@
+body{
+    background-color:lightgrey;
+}
+
+h1{
+    color:blue;
+    text-align:center;
+    border: 2px solid black;
+}
+
+h2{
+    color:black;
+}
+
+p{
+    font-size:18px;
+    margin:10px;
+    padding:15px;
+}
+
+ul{
+    font-size:15px;
+}
+
+a:link{
+    color:green;
+}
+
+a:hover{
+    color:red;
+}

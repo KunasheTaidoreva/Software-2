@@ -1,0 +1,27 @@
+body{
+    background-color:grey;
+}
+
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:slategrey;
+    padding:15px 12px;
+    border-radius:5px;
+}
+
+.Links{
+    padding:10px 5px;
+}
+
+.Links a:hover{
+    background-color:whitesmoke;
+    color:black;
+}
+
+footer{
+    background-color:whitesmoke;
+    text-align:center;
+    justify-content:center;
+}
