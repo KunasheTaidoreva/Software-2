@@ -1,20 +1,14 @@
-from flask import Flask, request
+from flask import Flask
 
-app = Flask(__name__)
+app= Flask(__name__)
 
-@app.route('/divide')
-def divide():
-    args = request.args
-
+@app.route('/multiply/<num1>/<num2>')
+def multiply(num1,num2):
     try:
-        num1 = float(args.get("number1"))
-        num2 = float(args.get("number2"))
-
-        answer = num1 / num2
-        return str(answer)
-
+        product = float(num1)*float(num2)
+        return {"result":product}
     except:
-        return "Invalid arguments", 400
+        return{"Error":"file not found"},400 
 
-if __name__ == '__main__':
+if __name__=='__main__':
     app.run(debug=True)

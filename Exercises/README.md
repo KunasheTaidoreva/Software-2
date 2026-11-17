@@ -36,3 +36,11 @@ Completed folder tasks
 -t7:2p
 
 **total 11p**
+
+##Python Flask Server 
+
+Link to the python flask server folder https://users.metropolia.fi/~kunashet/Exercises/PythonFlaskServer/
+
+Completed Tasks:
+task 2: 10 points
+**Total points 10**
